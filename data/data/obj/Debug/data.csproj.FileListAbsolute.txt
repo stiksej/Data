@@ -1,0 +1,11 @@
+D:\AdamStrzelczyk\data\data\bin\Debug\data.exe.config
+D:\AdamStrzelczyk\data\data\bin\Debug\data.exe
+D:\AdamStrzelczyk\data\data\bin\Debug\data.pdb
+D:\AdamStrzelczyk\data\data\obj\Debug\data.csproj.AssemblyReference.cache
+D:\AdamStrzelczyk\data\data\obj\Debug\data.csproj.SuggestedBindingRedirects.cache
+D:\AdamStrzelczyk\data\data\obj\Debug\data.Form1.resources
+D:\AdamStrzelczyk\data\data\obj\Debug\data.Properties.Resources.resources
+D:\AdamStrzelczyk\data\data\obj\Debug\data.csproj.GenerateResource.cache
+D:\AdamStrzelczyk\data\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+D:\AdamStrzelczyk\data\data\obj\Debug\data.exe
+D:\AdamStrzelczyk\data\data\obj\Debug\data.pdb
